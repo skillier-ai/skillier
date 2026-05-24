@@ -13,11 +13,11 @@ curl -fsSL https://skillier.ai/install | sh -s -- --full   # Full (hosted backen
 
 The script auto-detects your host and downloads the matching bundle from this repo's latest release.
 
-### Claude Desktop (drag-drop)
+### Claude Desktop or claude.com — drag-drop (same flow either way)
 
 1. Visit the [latest release](https://github.com/skillier-ai/skillier/releases/latest)
 2. Download **`skillier.skill`** (Lite) or **`skillier-full.skill`** (Full — backend URL baked in)
-3. Claude Desktop → Settings → **Capabilities** → scroll to **Skills** at the bottom → **Customize** → drop the file
+3. Open Claude Desktop OR go to **claude.com** → Settings → **Capabilities** → scroll to **Skills** at the bottom → **Customize** → drop the file
 
 ## What's in each bundle
 
