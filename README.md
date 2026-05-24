@@ -17,7 +17,7 @@ The script auto-detects your host and downloads the matching bundle from this re
 
 1. Visit the [latest release](https://github.com/skillier-ai/skillier/releases/latest)
 2. Download **`skillier.skill`** (Lite) or **`skillier-full.skill`** (Full — backend URL baked in)
-3. Open Claude Desktop OR go to **claude.com** → Settings → **Capabilities** → scroll to **Skills** at the bottom → **Customize** → drop the file
+3. Open Claude Desktop or go to **claude.com** → sidebar → **Customize** → **Skills** → click **+** → **Create skill** → **Upload a skill** → drop the file
 
 ## What's in each bundle
 
