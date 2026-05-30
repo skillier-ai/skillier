@@ -1,4 +1,4 @@
-# Skillier Lite
+# Skillier
 
 > A single Claude skill that searches a packed databank of **1,852 curated expert skills** with stdlib BM25, surfaces the top candidates, lets you multi-select via `AskUserQuestion`, and loads the chosen `SKILL.md` bodies so Claude follows them.
 
