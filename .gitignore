@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+.claude/
+# Raw skillbank/ is derivable via scripts/seed.py.
+# The packed distribution form (skillbank.jsonl) is committed.
+skillbank/
+# Local rollback backups created by seed.py / build_index.py.
+*.bak
