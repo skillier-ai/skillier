@@ -1,5 +1,7 @@
 # Skillier
 
+[![Skillproof: safety](https://skillproof-api.fly.dev/v1/badge/yF1yaDHgax8d.svg)](https://proof.skillier.ai/r/yF1yaDHgax8d) [![Skillproof: quality](https://skillproof-api.fly.dev/v1/badge/yF1yaDHgax8d.svg?pillar=quality)](https://proof.skillier.ai/r/yF1yaDHgax8d)
+
 > The lite version (this repo) is A single skill that searches a packed databank of **1,852 curated expert skills** with stdlib BM25, surfaces the top candidates, lets you multi-select via `AskUserQuestion`, and loads the chosen `SKILL.md` bodies so your AI follows them.
 
 **This repository is the open-source home of Skillier Lite** — the local-only, no-network, no-dependency, no-telemetry edition. The source you see here *is* the product: clone it, read it, run it.
